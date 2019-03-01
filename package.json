@@ -1,0 +1,27 @@
+{
+  "name": "seuss-too-many-daves",
+  "version": "0.1.0",
+  "description": "A useless package containing a list of names from Dr. Seuss' poem Too Many Daves",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jawkha/seuss-too-many-daves.git"
+  },
+  "keywords": [
+    "dr.seuss",
+    "too many daves",
+    "useless package"
+  ],
+  "author": "Jawad Khawaja <devjawkha@gmail.com> (https://www.github.com/jawkha)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jawkha/seuss-too-many-daves/issues"
+  },
+  "homepage": "https://github.com/jawkha/seuss-too-many-daves#readme",
+  "dependencies": {
+    "unique-random-array": "1.0.1"
+  }
+}
